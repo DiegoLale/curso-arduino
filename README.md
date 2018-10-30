@@ -26,3 +26,22 @@ Ejercicio 4:
         ◦ “archivo” > “ejemplos” > “basics” > “bareminimum”
         ◦ // los comentarios
         ◦ modificacion de los comentarios y guardado.
+
+# curso-arduino dia tres  23 de octubre de 2018
+
+Ejercicio 1:
+    • Repetiremos con “analogReadSerialmod1”. 
+    • ¿que hace el programa? ¿? ¿?
+    • Comunicación a través del puerto serie.
+    • Pulsaremos la “lupa” a la derecha del “ide” y veremos que pasa.
+    • Interacción con el puerto serie.
+    • Moveremos el potenciómetro azul y veremos el cambio en el valor del puerto serie.
+
+Ejercicio 2:
+    • ¿como se comporta el valor en el puerto serie?
+    • ¿valor mínimo y valor máximo?
+    • ¿Aumenta el valor girando en sentido horario o antihorario?
+    • Análisis del sketch… ideas.
+Ejercicio 3:
+    • ¿Invertir el valor?… es posible?...piensa… matemáticas.
+    • Solucion en ...
